@@ -1,0 +1,149 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.container{
+    margin: 0 auto;
+    width: 1200px;
+}
+.logo{
+    width: 200px;
+    height: 200px;
+}
+.search-bar{
+    width: 80%;
+    max-width: 900px;
+    background: none;
+    display: flex;
+    align-items: center;
+    border-radius: 60px;
+    padding: 10px 20px;
+    margin-left: 12rem;
+    margin-top: -9rem;
+}
+.search-bar input{
+    background: rgba(205, 205, 205, 0.42);
+    flex: 1;
+    border: 0;
+    border-radius: 50px;
+    outline: none;
+    padding: 24px 20px;
+    font-size: 20px;
+    color: #fff ;
+}
+::placeholder{
+    color: #ffffff;
+}
+.wrapper-header{
+    display: flex;
+    align-items: center;
+}
+ul{
+    display: flex;
+    gap: 60px;
+    list-style: none;
+    margin-top: 5rem;
+}
+.case{
+    width: 300px;
+    height: 600px;
+    margin-left: 3rem;
+    margin-top: 3rem;
+}
+.case1{
+    width: 350px;
+    height: 600px;
+    margin-left: 2rem;
+}
+.case2{
+    width: 350px;
+    height: 600px;
+    margin-left: 2rem;
+    margin-top: 4rem;
+}
+.lee{
+    font-family: 'Montserrat', sans-serif; 
+    font-size: 32px;
+    font-weight: 350;
+    line-height: 39px;
+    margin-left: 32rem;
+    margin-top: 3rem;
+}
+.box1{
+    width: 220px;
+    height: 380px;
+    box-shadow: 0px 10px 40px rgba(18, 18, 18, 0.1);
+    margin-top: 2rem;
+}
+.box2{
+    width:  220px;
+    height: 380px;
+    box-shadow: 0px 10px 40px rgba(18, 18, 18, 0.1);
+    margin-left: 15rem;
+    margin-top: -23.5rem;
+}
+.box3{
+    width: 220px;
+    height: 380px;
+    box-shadow: 0px 10px 40px rgba(18, 18, 18, 0.1);
+    margin-left: 30rem;
+    margin-top: -23.5rem;
+}
+.box4{
+    width: 220px;
+    height: 380px;
+    box-shadow: 0px 10px 40px rgba(18, 18, 18, 0.1);
+    margin-left: 45rem;
+    margin-top: -23.5rem;
+}
+.box5{
+    width: 220px;
+    height: 380px;
+    box-shadow: 0px 10px 40px rgba(18, 18, 18, 0.1);
+    margin-left: 60rem;
+    margin-top: -23.5rem;
+}
+.lix{
+    width: 200px;
+    height: 200px;
+    padding-left: 1rem;
+    padding-top: 1rem;
+}
+.hwan{
+    font-family: 'Montserrat', sans-serif; 
+    font-size: 16px;
+    font-weight: 100;
+    line-height: 30px;
+    margin-left: 1rem;
+}
+b{
+    font-family: 'Montserrat', sans-serif; 
+    font-size: 18px;
+    font-weight: 50;
+    line-height: 19px;
+}
+.kim{
+    font-family: 'Montserrat', sans-serif; 
+    font-size: 16px;
+    font-weight: 100;
+    line-height: 30px;
+    margin-left: 1rem;
+}
+.seun{
+    font-family: 'Montserrat', sans-serif; 
+    font-size: 14px;
+    font-weight: 150;
+    line-height: 30px;
+    margin-left: 1rem;
+}
+.felix{
+    width: 150px;
+    height: 35px;
+    background-color: rgb(18, 17, 17);
+    color: #fff;
+    border: 1px solid rgb(18, 17, 17);
+    margin-left: 2rem;
+    margin-top: 5px;
+}
